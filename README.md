@@ -4,7 +4,9 @@
 
 **資管系**
 
-*2A*
+*3A*
+
+**系統分析與設計**
 
 ## Welcome to MarkdownPad 2 ##
 
