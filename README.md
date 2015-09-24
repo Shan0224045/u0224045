@@ -10,6 +10,9 @@
 - 實作
 - 練習
 - 應用
+ 
+
+[trello link](https://trello.com/b/LHpXCbEK/oose)
 
 ## Welcome to MarkdownPad 2 ##
 
